@@ -1,3 +1,15 @@
 .App {
   text-align: center;
 }
+
+.container-login{
+  position: relative;
+  margin-left: 20%;
+  margin-right: 20%;
+  min-width: 300px;
+  border: 1px black solid;
+}
+
+.container-login Button {
+  margin: 10px;
+}
