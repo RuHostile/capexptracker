@@ -12,7 +12,9 @@
     "express-mysql-session": "^2.1.8",
     "mysql": "^2.18.1",
     "react": "^18.2.0",
-    "react-bootstrap": "^2.6.0",
+    "react-bootstrap": "^2.7.0",
+    "react-bootstrap-buttons": "^1.0.0",
+    "react-bootstrap-form": "^0.1.4-beta6",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.4.3",
     "react-scripts": "^5.0.1",
@@ -42,5 +44,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "install-peers": "^1.0.4"
   }
 }

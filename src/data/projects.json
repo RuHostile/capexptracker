@@ -1,0 +1,37 @@
+[
+	{
+		"ID": 1,
+		"Name": "Capital Expenditure Project",
+		"Description": "Donec at arcu. Vestibulum ante ipsum primis in faucibus orci",
+		"Department": "Building,",
+		"Capital Expenditure": 0
+	},
+	{
+		"ID": 2,
+		"Name": "Roof Leak",
+		"Description": "Proin nisl sem, consequat nec, mollis vitae,",
+		"Department": "Investment,",
+		"Capital Expenditure": 0
+	},
+	{
+		"ID": 3,
+		"Name": "New F-1C",
+		"Description": "ante lectus convallis est, vitae sodales nisi",
+		"Department": "Airport,",
+		"Capital Expenditure": 0
+	},
+	{
+		"ID": 4,
+		"Name": "Colin",
+		"Description": "Nulla interdum. Curabitur dictum. Phasellus in felis. Nulla tempor augue",
+		"Department": "Investment,",
+		"Capital Expenditure": 0
+	},
+	{
+		"ID": 5,
+		"Name": "Holly",
+		"Description": "Cras vehicula aliquet libero. Integer",
+		"Department": "Building,",
+		"Capital Expenditure": 0
+	}
+]
