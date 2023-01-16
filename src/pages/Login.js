@@ -36,7 +36,7 @@ function Login() {
         <Form.Label>Username</Form.Label>
         <Form.Control type="email" placeholder="Enter username" value={username} onChange={(e) => setUsername(e.target.value)}/>
         <Form.Text className="text-muted">
-          Your usename or email.
+          Your username or email.
         </Form.Text>
       </Form.Group>
 
@@ -57,9 +57,7 @@ function Login() {
       </Form.Group>
         <Button variant="primary" onClick={() => setGoToHome(true)}>login</Button>
       </Form>
-      <Button onClick={() => setGoToRegister(true)}>
-        register a account
-      </Button>
+
     </div>
   );
 }
